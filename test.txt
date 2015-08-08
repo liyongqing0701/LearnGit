@@ -1,0 +1,9 @@
+ git push -u origin master
+Counting objects: 19, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (19/19), 13.73 KiB, done.
+Total 23 (delta 6), reused 0 (delta 0)
+To git@github.com:michaelliao/learngit.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
