@@ -4,3 +4,5 @@ My stupid boss perfer SVN.
 This is a test.
 Today i learn Git.
 tejkjkjkjkjlkjkljkl
+Git tracks changes.
+Git tracks changes of files.
